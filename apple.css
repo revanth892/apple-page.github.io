@@ -1,0 +1,444 @@
+
+
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+.padding-adjust-navbar
+{
+    padding-top:1.4px;
+    padding-bottom: 1.4px;
+}
+.nav-item
+{
+    font-size: small;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-left: 1px;
+    margin-right:1px;
+    text-align: left;
+}
+.all-items-align
+{
+    text-align: center;
+}
+
+.navbar-image{
+    color: rgb(210, 210, 210);
+}
+
+.navbar-image:hover{
+    color: rgb(255, 255, 255);
+}
+
+.hh-line
+{
+    margin-top: 0.8%;
+    margin-bottom: 0;
+}
+
+.ll-hh-line
+{
+    margin-bottom:25%;
+}
+.ff-sec-hh-line
+{
+    width: auto;
+    margin-top: 3%;
+}
+.ff-fir-hh-line
+{
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+.unicef-container
+{
+    background-color: rgb(247, 247, 247);
+}
+.unicef-text
+{
+    padding:0 0 0 0;
+    color: cornflowerblue;
+    text-decoration:none;
+}
+.unicef-text:hover
+{
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+.unicef-content
+{
+    padding-top: 1.2%;
+    padding-bottom: 1.2%;
+}
+.sec-1
+{
+    background-color: rgb(247, 247, 247);
+}
+.uni-image
+{
+    padding: auto;
+}
+.temp-con-color
+{
+    background-color: blanchedalmond;
+}
+.item-box-left
+{
+    padding: 1% 0.5% 1% 1%;
+}
+.item-box-right
+{
+    padding: 1% 1% 1% 0.5%;
+}
+.link-item
+{
+    margin:0 2.5% 0 2.5% ;
+}
+.img-container-watch
+{
+    background-image: url(images/iwatch.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.text-placing-watch
+{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 55%;
+}
+
+.watch-title
+{
+    color: white;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+.watch-sub-title
+{
+    color: white;
+    font-weight: 400;
+}
+.watch-description
+{
+    margin-top: 1.5%;
+    font-size:larger;
+    color: white;
+    font-weight: 600;
+}
+.watch-link-item
+{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.watch-link-item:hover
+{
+    color:white;
+    text-decoration: underline;
+}
+
+
+.img-container-iphone
+{
+    background-image: url(images/iphone.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.text-placing-iphone
+{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 60%;
+}
+
+.iphone-title
+{
+    color: rgb(0, 0, 0);
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-weight: 600;
+}
+.iphone-description
+{
+    margin-top: 1.5%;
+    margin-bottom: 0.9%;
+    padding-bottom: 0;
+    font-size:x-large;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+}
+.iphone-link-item
+{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.iphone-link-item:hover
+{
+    text-decoration: underline;
+}
+
+.container-2,.container-3
+{
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
+}
+
+
+.img-container-macbook
+{
+    background-image: url(images/macbook.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.text-placing-macbook
+{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 58.3%;
+}
+
+.macbook-title
+{
+    color: white;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+.macbook-description
+{
+    margin-top: 1%;
+    font-size:larger;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 1%;
+}
+.macbook-link-item
+{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.macbook-link-item:hover
+{
+    text-decoration: underline;
+}
+
+
+.img-container-ipad
+{
+    background-image: url(images/ipad.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.text-placing-ipad
+{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 58.3%;
+}
+
+.ipad-title
+{
+    color: white;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+.ipad-description
+{
+    margin-top: 1%;
+    font-size:larger;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 1%;
+}
+.ipad-link-item
+{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.ipad-link-item:hover
+{
+    text-decoration: underline;
+}
+
+
+
+
+.img-container-macbook
+{
+    background-image: url(images/macbook.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.text-placing-macbook
+{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 58.3%;
+}
+
+.macbook-title
+{
+    color: white;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+.macbook-description
+{
+    margin-top: 1%;
+    font-size:larger;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 1%;
+}
+.macbook-link-item
+{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.macbook-link-item:hover
+{
+    text-decoration: underline;
+}
+
+
+.img-container-card
+{
+    background-image: url(images/card.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.text-placing-card
+{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 58.3%;
+}
+
+.card-title
+{
+    color: rgb(0, 0, 0);
+    margin-bottom: 0;
+    font-weight: 700;
+}
+.card-description
+{
+    margin-top: 1%;
+    font-size:larger;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    margin-bottom: 1%;
+}
+.card-link-item
+{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.card-link-item:hover
+{
+    text-decoration: underline;
+}
+
+.img-container-fit
+{
+    background-image: url(images/fitness.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.text-placing-fit
+{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 58.3%;
+}
+
+.fit-title
+{
+    color: rgb(255, 255, 255);
+    margin-bottom: 0;
+    font-weight: 700;
+}
+.fit-description
+{
+    margin-top: 1%;
+    font-size:larger;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    margin-bottom: 1%;
+}
+.fit-link-item
+{
+    color:rgb(134, 241, 12);
+    font-size: large;
+    text-decoration: none;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.fit-link-item:hover
+{
+    color:rgb(134, 241, 12);
+    text-decoration: underline;
+}
+
+.container-4
+{
+    background-color: rgb(246, 246, 246);
+    margin: 3% 0% 0% 0%;
+}
+.car-container
+{
+    width: 85%;
+    height:60%;
+}
+
+.img-cap-genre
+{
+    font-weight: 500;
+    font-size: x-large;
+}
+.img-cap-intro
+{
+    font-size: x-large;
+}
+.car-container-xs
+{
+    height: 50%;
+}
+
+.content-abv-footer
+{
+    margin:3% 16% 2% 16%;
+    font-size: 12px;
+    color: rgb(179, 179, 179);
+}
+
+.container-5
+{
+    background-color: rgb(246, 246, 246);
+    margin: 3% 0% 0% 0%;
+}
+.content-bel-footer
+{
+    margin:3% 0% 2% 0%;
+    font-size: 12px;
+    color: rgb(179, 179, 179);
+}
