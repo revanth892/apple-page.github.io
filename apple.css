@@ -58,12 +58,12 @@ body
 .unicef-text
 {
     padding:0 0 0 0;
-    color: cornflowerblue;
+    color:rgb(135,206,235);
     text-decoration:none;
 }
 .unicef-text:hover
 {
-    color: cornflowerblue;
+    color: rgb(135,206,235);
     text-decoration: underline;
 }
 .unicef-content
@@ -106,7 +106,7 @@ body
 {
     text-align: center;
     padding-top: 8%;
-    padding-bottom: 55%;
+    padding-bottom: 65%;
 }
 
 .watch-title
@@ -153,7 +153,7 @@ body
 {
     text-align: center;
     padding-top: 8%;
-    padding-bottom: 60%;
+    padding-bottom: 69.5%;
 }
 
 .iphone-title
@@ -367,8 +367,8 @@ body
 .text-placing-fit
 {
     text-align: center;
-    padding-top: 8%;
-    padding-bottom: 58.3%;
+    padding-top: 5%;
+    padding-bottom: 62.3%;
 }
 
 .fit-title
@@ -504,7 +504,7 @@ h6{
 }
 .watch-link-item-intro-1
 {
-    color:rgb(0, 26, 255);
+    color:rgb(135,206,235);
     font-size: large;
     text-decoration: none;
     margin-left: 1%;
@@ -512,7 +512,7 @@ h6{
 }
 .watch-link-item-intro-1:hover
 {
-    color:rgb(0, 26, 255);
+    color:rgb(135,206,235);
     text-decoration: underline;
 }
 
@@ -554,7 +554,7 @@ h6{
 }
 .watch-link-item-intro-2
 {
-    color:rgb(0, 26, 255);
+    color:rgb(135,206,235);
     font-size: large;
     text-decoration: none;
     margin-left: 1%;
@@ -562,7 +562,7 @@ h6{
 }
 .watch-link-item-intro-2:hover
 {
-    color:rgb(0, 26, 255);
+    color:rgb(135,206,235);
     text-decoration: underline;
 }
 
@@ -604,7 +604,7 @@ h6{
 }
 .watch-link-item-intro-3
 {
-    color:rgb(0, 26, 255);
+    color:rgb(135,206,235);
     font-size: large;
     text-decoration: none;
     margin-left: 1%;
@@ -612,7 +612,7 @@ h6{
 }
 .watch-link-item-intro-3:hover
 {
-    color:rgb(0, 26, 255);
+    color:rgb(135,206,235);
     text-decoration: underline;
 }
 
@@ -649,7 +649,7 @@ h6{
 .text-placing-watch-intro-22
 {
     text-align: center;
-    padding:1% 0 50% 0;
+    padding:1% 0 60% 0;
 }
 .img-opener-22
 {
@@ -670,14 +670,14 @@ h6{
 .text-placing-watch-intro-33
 {
     text-align: center;
-    padding:1% 0 90% 0;
+    padding:5% 0 112.5% 0;
 }
 .img-opener-33
 {
     padding-top:40%;
     padding-bottom:40%;
     padding-left: 40%;
-    padding-bottom: 40%;
+    padding-bottom: 50%;
 }
 
 
