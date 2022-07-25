@@ -670,7 +670,7 @@ h6{
 .text-placing-watch-intro-33
 {
     text-align: center;
-    padding:1% 0 70% 0;
+    padding:1% 0 90% 0;
 }
 .img-opener-33
 {
@@ -678,4 +678,17 @@ h6{
     padding-bottom:40%;
     padding-left: 40%;
     padding-bottom: 40%;
+}
+
+
+.dropdown-links
+{
+    
+    text-decoration: none;
+}
+
+.dropdown-links:hover
+{
+    color: black;
+    text-decoration: underline;
 }
